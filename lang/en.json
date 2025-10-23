@@ -1,0 +1,80 @@
+{
+  "nav": {
+    "home": "Home",
+    "education": "Education",
+    "certs": "Certificates",
+    "projects": "Projects",
+    "contacts": "Contacts"
+  },
+  "hero": {
+    "welcome": "Welcome to my portfolio",
+    "name": "Bruno",
+    "role": "Python developer & database engineer",
+    "viewProjects": "View projects",
+    "contactMe": "Contact me"
+  },
+  "education": {
+    "title": "I study at the Republican Higher Technical College (RHTC) in Uralsk, majoring in Software Engineering.",
+    "text": "It’s a modern college focused on practical skills and real-world development. The curriculum combines programming languages, cybersecurity fundamentals, and application design. Here I gain the foundation needed for an IT career and professional growth.",
+    "diplomaPlaceholder": "Diploma will appear here (coming soon)"
+  },
+  "certs": {
+    "title": "My certificates",
+    "card1": {
+      "title": "Website Creation from Scratch",
+      "desc": "Course on web basics — HTML, CSS, and responsive layout.",
+      "btn": "View certificate"
+    },
+    "card2": {
+      "title": "Android Developer",
+      "desc": "Learning Kotlin basics and building mobile apps.",
+      "btn": "View certificate"
+    },
+    "card3": {
+      "title": "Java Start",
+      "desc": "Basic Java course — object-oriented programming.",
+      "btn": "View certificate"
+    },
+    "card4": {
+      "title": "Copywriting",
+      "desc": "Course on writing texts that attract and sell.",
+      "btn": "View certificate"
+    }
+  },
+  "projects": {
+    "title": "My projects",
+    "card1": {
+      "title": "Q&A System based on ChromaDB and Gemini API",
+      "desc": "Content from an author’s book is indexed in a vector DB; relevant fragments are retrieved and passed to an AI model to generate precise answers.",
+      "btn": "View project"
+    },
+    "react": {
+      "title": "React Memory Game",
+      "desc": "Interactive React-based memory game built with Create React App. The player must match pairs of cards — includes state management, timer, and animations.",
+      "btn": "View project"
+    },
+    "card4": {
+      "title": "Enter Speed Game",
+      "desc": "A Python reaction speed game built with Tkinter. The player hits Enter as fast as possible through 10 rounds, and the app builds a performance chart.",
+      "btn": "View project"
+    }
+  },
+  "contacts": {
+    "title": "Contact me",
+    "intro": "If you have any questions, suggestions, or want to collaborate — write me 👇",
+    "social": {
+      "title": "Social media",
+      "text": "I’m active on social media — feel free to reach out directly."
+    },
+    "form": {
+      "title": "Send a message",
+      "name": "Your name",
+      "email": "Your email",
+      "message": "Your message...",
+      "btn": "Send"
+    }
+  },
+  "footer": {
+    "made": ""
+  }
+}
